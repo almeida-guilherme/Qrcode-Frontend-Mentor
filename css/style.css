@@ -28,7 +28,7 @@ main{
 /* Flex Items */
 main img{
   border-radius: 30px;
-  width: 490px;
+  flex-basis:375px;
 }
 
 main h1{
