@@ -1,0 +1,46 @@
+*{
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Outfit', sans-serif;
+  background-color:  hsl(212, 45%, 89%);
+}
+
+/* Flex Container */
+main{
+  display: flex;
+  flex-flow: column wrap;
+  justify-content: center;
+  align-items: center;
+  margin: 20px;
+  padding: 20px;
+  min-width: 375px;
+  border-radius:30px;
+  background-color:  hsl(0, 0%, 100%);
+  gap: 40px;
+}
+
+/* Flex Items */
+main img{
+  border-radius: 30px;
+  width: 490px;
+}
+
+main h1{
+  color:  hsl(218, 44%, 22%);
+  font-weight: 700;
+  width: 400px;
+}
+
+main p{
+ color: hsl(220, 15%, 55%);
+ width: 400px;
+ font-size: 30px;
+ font-weight: 400;
+}
+
