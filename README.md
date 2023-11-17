@@ -12,6 +12,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
 - [Author](#author)
+- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -35,6 +36,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 The thing I learned most, it was how to make a site responsive. It's easier just to make a site, that fits in my desktop.However, when I needed make a site, that it require to fit in an mobile screen, it was harder. Besides, I learned how to make something just looking the model. It was interesting, because before I made my pages just with a tutorial
 
+-text-align
+
 ### Continued development
 
 - Responsiveness
@@ -46,3 +49,6 @@ The thing I learned most, it was how to make a site responsive. It's easier just
 - Linkedin - [@Guilherme Henrique](https://www.linkedin.com/in/guilhermenrique/)
 - Hackerrank - [@guilherme_3507](https://www.hackerrank.com/profile/guilherme_3507)
 
+## Acknowledgments
+
+I'd like to thank "Chriscent Pingol" [@KishonShrill], because he showed me how I could improve my code and my way of coding
